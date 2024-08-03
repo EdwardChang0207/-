@@ -3,3 +3,6 @@
 
 0727 HW:
 ZeroJudge c290, e286
+
+0803 HW:
+ZeroJudge b964, c294, c461
