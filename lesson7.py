@@ -46,3 +46,11 @@ while a > 1:
     a /= 2
 print(a)
 '''
+# print([i for i in range(1,11)])
+
+#continue -> skip
+#break -> stop
+for i in range(10):
+    if i == 3: continue
+    if i == 5: break
+    print(i)

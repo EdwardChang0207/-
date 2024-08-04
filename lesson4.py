@@ -53,3 +53,4 @@ F xor F -> F
 a = False
 b = False
 print((a or b) and not(a and b))
+
