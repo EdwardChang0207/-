@@ -6,3 +6,6 @@ ZeroJudge c290, e286
 
 0803 HW:
 ZeroJudge b964, c294, c461
+
+0810 HW:
+ZeroJudge f312, f579 + 完成 ＯＯＸＸ

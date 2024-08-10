@@ -15,4 +15,7 @@ input('pls enter ur account: \n')
 .: 1.的 2.對...做...
 split('分割字元') init:' '
 '''
-print(input().split())
+# print(input().split())
+
+print(1, 2, 3)
+print(4, 5, 6)
