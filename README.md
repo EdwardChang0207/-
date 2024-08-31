@@ -15,3 +15,6 @@ ZeroJudge e313, f605, a010
 
 0824 HW:
 ZeroJudge g275, g595, a011
+
+0831 HW:
+ZeroJudge h026, i399, i428
